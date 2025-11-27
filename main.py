@@ -18,3 +18,5 @@ if __name__ == '__main__':
 x = "fami chlm"
 print(x)
 y = "rizu"
+
+z= "12345"
